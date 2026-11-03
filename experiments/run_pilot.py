@@ -1,4 +1,4 @@
-"""Reproduce every number and figure in the pilot section of reply.pdf.
+"""Reproduce every number and figure in the pilot write-up.
 
 Usage:  python experiments/run_pilot.py            (full run, a few minutes on 14 cores)
         python experiments/run_pilot.py --quick    (small K, for a smoke test)
